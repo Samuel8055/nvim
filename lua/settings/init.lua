@@ -18,6 +18,8 @@ set.fileencoding = 'utf-8'
 set.termguicolors = true
 
 set.relativenumber = true
+set.nu = true
 set.cursorline = true
+set.signcolumn = 'yes'
 
 set.hidden = true
